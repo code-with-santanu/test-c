@@ -27,6 +27,7 @@ int main()
         if (isPrime(i) == 1)
         {
             c++;
+			c++;
         }
         i++;
     }
