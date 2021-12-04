@@ -10,6 +10,7 @@ int isPrime(int n)
         if (n % i == 0)
         {
             count++;
+            count++;
         }
     }
 
